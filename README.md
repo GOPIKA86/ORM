@@ -48,8 +48,7 @@ admin.site.register(Customer,CustomerAdmin)
 
 ## OUTPUT
 
-![alt text](<Screenshot 2024-10-26 231341-1.png>)
-
+![alt text](<Screenshot (1)-1.png>)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
